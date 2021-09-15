@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c33d171e.chunk.css",
+    "main.js": "/static/js/main.4e3ccbdd.chunk.js",
+    "main.js.map": "/static/js/main.4e3ccbdd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f2d18f03.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f2d18f03.js.map",
+    "static/js/2.50acb8fc.chunk.js": "/static/js/2.50acb8fc.chunk.js",
+    "static/js/2.50acb8fc.chunk.js.map": "/static/js/2.50acb8fc.chunk.js.map",
+    "static/js/3.1b9fa74c.chunk.js": "/static/js/3.1b9fa74c.chunk.js",
+    "static/js/3.1b9fa74c.chunk.js.map": "/static/js/3.1b9fa74c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c33d171e.chunk.css.map": "/static/css/main.c33d171e.chunk.css.map",
+    "static/js/2.50acb8fc.chunk.js.LICENSE.txt": "/static/js/2.50acb8fc.chunk.js.LICENSE.txt",
+    "static/media/DES210 Mercury Cover_HannahJenny FINAL.3e92a4fd.jpg": "/static/media/DES210 Mercury Cover_HannahJenny FINAL.3e92a4fd.jpg",
+    "static/media/Design Culture Now_HannahJenny Final.3d2b144b.jpeg": "/static/media/Design Culture Now_HannahJenny Final.3d2b144b.jpeg",
+    "static/media/GIF-R1.6aa2085a.gif": "/static/media/GIF-R1.6aa2085a.gif",
+    "static/media/HannahSelfPortraitGeometric-01.efda82e1.png": "/static/media/HannahSelfPortraitGeometric-01.efda82e1.png",
+    "static/media/KABENZE'S-01.42cd01aa.png": "/static/media/KABENZE'S-01.42cd01aa.png",
+    "static/media/PDX PF Project 2 _Hannah Jenny FINAL-01.332b21f9.png": "/static/media/PDX PF Project 2 _Hannah Jenny FINAL-01.332b21f9.png",
+    "static/media/PDX PF Project 2 _Hannah Jenny FINAL-02.faf6ea01.png": "/static/media/PDX PF Project 2 _Hannah Jenny FINAL-02.faf6ea01.png",
+    "static/media/PDX PF Project 2 _Hannah Jenny FINAL-03.4dbaf43c.png": "/static/media/PDX PF Project 2 _Hannah Jenny FINAL-03.4dbaf43c.png",
+    "static/media/PDX PF Project 2 _Hannah Jenny FINAL-04.373ad5db.png": "/static/media/PDX PF Project 2 _Hannah Jenny FINAL-04.373ad5db.png",
+    "static/media/index.css": "/static/media/montserrat-v18-latin-300.986d631a.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2d18f03.js",
+    "static/js/2.50acb8fc.chunk.js",
+    "static/css/main.c33d171e.chunk.css",
+    "static/js/main.4e3ccbdd.chunk.js"
+  ]
+}
